@@ -1,0 +1,17 @@
+html, body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+input {
+    padding: 5px;
+}
+
+.form-group {
+    display: flex;
+    padding: 5px;
+}
+
+.label {
+    width: 200px;
+}
